@@ -1,6 +1,6 @@
 # Policy-Export
 ```
-usage: allPolicies.py [-h] -c CLIENT_ID [-o OUTPUT] [-f {markdown,csv}]
+usage: policyExport.py [-h] -c CLIENT_ID [-o OUTPUT] [-f {markdown,csv}]
 
 Export Cyera Policies
 
