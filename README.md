@@ -1,3 +1,5 @@
+# Policy-Export
+```
 usage: allPolicies.py [-h] -c CLIENT_ID [-o OUTPUT] [-f {markdown,csv}]
 
 Export Cyera Policies
@@ -10,3 +12,4 @@ optional arguments:
                         Output file to save content
   -f {markdown,csv}, --format {markdown,csv}
                         Output format (default: markdown)
+```
